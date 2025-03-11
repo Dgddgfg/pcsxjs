@@ -1,7 +1,7 @@
 # jspcsx
 pcsx in a browser
 
-Demo:  https://tjwei.github.io/pcsxjs
+Demo:  https://dgddgfg.github.io/pcsxjs/
 
 
 Modified pcsx-r compiled with emscripten to wasm
